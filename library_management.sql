@@ -1,6 +1,6 @@
 /* ======================================================
 PROJECT: LIBRARY MANAGEMENT SYSTEM (V1.0)
-DEVELOPER: [Mandar]
+DEVELOPER: [Mandy2725]
 TOOLS: MySQL
 ======================================================
 */
