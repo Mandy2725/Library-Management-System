@@ -1,3 +1,4 @@
+![Library Dashboard Preview](./dashboard_preview.png)
 # Library-Management-System
 
 # Library Management System using SQL & Excel
